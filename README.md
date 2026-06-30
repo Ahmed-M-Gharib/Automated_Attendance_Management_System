@@ -1,4 +1,4 @@
-# Automated Attendance Management System (AAMS) 🎓
+# Automated Attendance Management System (AAMS) 
 
 A comprehensive desktop application and system analysis project designed to replace legacy paper-based university attendance tracking with a secure, biometric-enabled digital solution.
 
